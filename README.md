@@ -1,5 +1,6 @@
 # AngularJS Phone Catalog Tutorial Application
 
+**Note: obviously, hardly any of this work is mine. My version only has small differences with a couple extra features, tests, and some style differences.**
 
 ## Overview
 
