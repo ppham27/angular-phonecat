@@ -63,6 +63,10 @@ h1 {
   margin: 1em;
 }
 
+.phone-thumbs li.selected {
+  border: 3px solid black;  
+}
+
 .phone-thumbs img {
   height: 100px;
   padding: 1em;
